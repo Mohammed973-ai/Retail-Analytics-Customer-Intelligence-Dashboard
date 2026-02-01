@@ -42,7 +42,17 @@ and this can be useful in different areas and scenarios :
 
 **Note** on Methodology: While I have successfully implemented this analysis using Power BI for visualization, it is worth noting that these kinds of analysis are better using progrmming language like R/Python as Statistical methods will be used and the result will be accurate as they ensure that associations are mathematically significant and not just coincidental.
 ## 3. RFM Page
+RFM is a customer segmentation technique that categorizes customers based on three keys :
 
+- Recency: How long has it been since the customer’s last purchase?
+- Frequency: How often does the customer purchase within a specific period?
+- Monetary: How much total value has the customer spent?
+
+By analyzing these three factors, we can identify high-value segments and those at risk:
+
+Best Customers (Champions): These are customers who shop frequently, spend the most, and have purchased very recently.
+
+At-Risk Customers: These are customers who used to buy frequently and spend large amounts, but haven't returned in a long time. Identifying this group is vital for re-engagement and retention strategies.
 ## 4. Semantic Model 
 
 
